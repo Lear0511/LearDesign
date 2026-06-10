@@ -15,6 +15,7 @@ skill-name/
 | スキル | 用途 |
 |---|---|
 | `skill-template/` | 新規スキルを作るための雛形（コピーして使う） |
+| `content-writer/` | 執筆の統合スキル。SKILL.md=役割、references=制約/読者/形式/品質基準 |
 | `content-writing/` | 編集なしで公開できる記事・長文コンテンツを書く |
 | `email-writing/` | 行動を促す150語以内のビジネスメールを書く（2トーン） |
 | `content-repurposing/` | 1つの元コンテンツを5フォーマットに展開する（X/LinkedIn/ニュースレター/SNS/動画台本） |
