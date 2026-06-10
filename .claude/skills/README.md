@@ -17,6 +17,7 @@ skill-name/
 | `skill-template/` | 新規スキルを作るための雛形（コピーして使う） |
 | `content-writing/` | 編集なしで公開できる記事・長文コンテンツを書く |
 | `email-writing/` | 行動を促す150語以内のビジネスメールを書く（2トーン） |
+| `content-repurposing/` | 1つの元コンテンツを5フォーマットに展開する（X/LinkedIn/ニュースレター/SNS/動画台本） |
 
 ## 新しいスキルの作り方
 
